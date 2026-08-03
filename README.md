@@ -131,8 +131,9 @@ Run `pytest .` inside a package's `tests` directory to run the Python tests.
 If you find this work useful, feel free to cite (one of) the accompanying
 papers.
 
-The [original paper](https://doi.org/10.1109/LRA.2023.3324520) on fast MPC for
-the waiter's problem is:
+The original paper [[IEEE](https://doi.org/10.1109/LRA.2023.3324520)]
+[[arXiv](https://arxiv.org/abs/2305.17484)] on fast MPC for the waiter's
+problem:
 ```
 @article{heins2023upright,
   title = {Keep It Upright: Model Predictive Control for Nonprehensile Object Transportation With Obstacle Avoidance on a Mobile Manipulator},
@@ -146,8 +147,9 @@ the waiter's problem is:
 }
 ```
 
-The [follow-up paper](https://arxiv.org/abs/2411.07079) on robust planning for
-the waiter's problem under inertial parameter uncertainty:
+The follow-up paper [[IEEE](https://doi.org/10.1109/LRA.2025.3551067)]
+[[arXiv](https://arxiv.org/abs/2411.07079)] on robust planning for the waiter's
+problem under inertial parameter uncertainty:
 ```
 @article{heins2025robust,
   title = {Robust Nonprehensile Object Transportation with Uncertain Inertial Parameters},
